@@ -1,0 +1,4 @@
+[{"index":1,"studentName":"小明","sex":false,"books":[{"bookName":"崛起","prise":199},{"bookName":"提莫队长","prise":123}]},
+{"index":2,"studentName":"小红","sex":true,"books":[{"bookName":"崛起","prise":199},{"bookName":"崛起","prise":199},{"bookName":"提莫队长","prise":123}]},
+{"index":3,"studentName":"小李","sex":false,"books":[]}
+]
