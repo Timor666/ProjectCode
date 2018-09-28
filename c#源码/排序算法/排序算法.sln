@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "排序算法", "排序算法\排序算法.csproj", "{A88C966F-090D-4694-8247-4D5F102287BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A88C966F-090D-4694-8247-4D5F102287BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A88C966F-090D-4694-8247-4D5F102287BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A88C966F-090D-4694-8247-4D5F102287BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A88C966F-090D-4694-8247-4D5F102287BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22EFA5E6-613F-491F-A41F-5F791D27F6F2}
+	EndGlobalSection
+EndGlobal
