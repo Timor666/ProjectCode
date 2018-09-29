@@ -67,31 +67,32 @@
     <None Include="Assets\MyShader\02-旋转UV\旋转.shader" />
     <None Include="Assets\MyShader\08-Cull\OffCull.shader" />
     <None Include="Assets\MyShader\01-波动\UV滚动.shader" />
+    <None Include="Assets\MyShader\09-Blend-混合\Blend-混合01.shader" />
     <None Include="Assets\MyShader\04-模糊\屏幕模糊.shader" />
     <None Include="Assets\MyShader\06-模板测试\模板测试01.shader" />
     <None Include="Assets\MyShader\06-模板测试\模板测试03.shader" />
     <None Include="Assets\MyShader\08-Cull\ForntCull.shader" />
     <None Include="Assets\MyShader\07-深度测试\深度测试3.shader" />
-    <None Include="Assets\MyShader\05-Alpha测试\Alpha测试.shader" />
+    <None Include="Assets\MyShader\05-Alpha-透明度测试\Alpha测试.shader" />
     <None Include="Assets\MyShader\NewImageEffectShader.shader" />
     <None Include="Assets\MyShader\03-轮廓\OutLine轮廓.shader" />
     <None Include="Assets\MyShader\07-深度测试\深度测试2.shader" />
     <None Include="Assets\MyShader\01-波动\Sin波动.shader" />
     <None Include="Assets\MyShader\07-深度测试\深度测试1.shader" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>D:/UnityProject/MyShader/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>D:/ProjectCode/项目源码/Unity3D源码/MyShader/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/UnityProject/MyShader/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/ProjectCode/项目源码/Unity3D源码/MyShader/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>D:/UnityProject/MyShader/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>D:/ProjectCode/项目源码/Unity3D源码/MyShader/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ShaderGraph.Editor">
-      <HintPath>D:/UnityProject/MyShader/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
+      <HintPath>D:/ProjectCode/项目源码/Unity3D源码/MyShader/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/UnityProject/MyShader/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/ProjectCode/项目源码/Unity3D源码/MyShader/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
