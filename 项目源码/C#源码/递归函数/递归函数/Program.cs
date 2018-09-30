@@ -13,13 +13,12 @@ namespace 递归函数
             //计算5天
 
 
-           // Console.WriteLine("最终值" + FunFor(5));
+            // Console.WriteLine("最终值" + FunFor(5));
 
-          Console.WriteLine("最终值" + FunRecursion(5));
+            // Console.WriteLine("最终值" + FunRecursion(5));
 
-
-
-
+            int[] a = { 1,2 };
+            BeautyArray(a,3);
             Console.ReadKey();
         }
 
@@ -48,5 +47,24 @@ namespace 递归函数
                 return FunRecursion(date-1) + date;
             }
         }
+
+
+ 
+
+
+        public static void  BeautyArray(int[] array ,int length)
+        {
+            int a = 0;
+            for (int i = 0; i < array.Length; i++)
+            {
+                a += array[i];
+                for (int j =i; j < array.Length; j++)
+                {
+                    a += array[j];
+                }
+            }
+            Console.WriteLine(a);
+        }
+
     }
 }

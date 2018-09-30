@@ -1,4 +1,4 @@
 sceneSetups:
-- path: "Assets/Scenes/09-Blend-\u6DF7\u5408.unity"
+- path: "Assets/Scenes/10-Queue\u6E32\u67D3\u961F\u5217.unity"
   isLoaded: 1
   isActive: 1

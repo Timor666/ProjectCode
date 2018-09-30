@@ -9,7 +9,7 @@
 		// No culling or depth
 	//	Cull Off ZWrite Off ZTest Always
 		
-		Blend DstColor 
+	   Blend OneMinusDstColor One 
 		Pass
 		{
 			CGPROGRAM
