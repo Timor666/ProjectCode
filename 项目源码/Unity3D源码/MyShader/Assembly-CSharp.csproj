@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\MyShader\04-模糊\CameraVagueEffect.cs" />
+    <Compile Include="Assets\Timor.cs" />
     <None Include="Assets\MyShader\08-Cull\BackCull.shader" />
     <None Include="Assets\MyShader\06-模板测试\模板测试02.shader" />
     <None Include="Assets\MyShader\02-旋转UV\旋转.shader" />
